@@ -1,0 +1,359 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 500px;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  background: none;
+  position: relative;
+  min-width: 0;
+  padding: 8px;
+}
+.name2 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: #ffffff;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox___4TkV8 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox___0KcrF {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.svg__k41F {
+  object-fit: cover;
+  max-width: 100%;
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+}
+.text__ivI88 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.text__aoEeh {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__bt4Hv {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  z-index: 12;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.button__hh0Jt:global(.__wab_instance) {
+  max-width: 100%;
+}
+.svg___4QB1L {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__xOPfO {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.textInput:global(.__wab_instance) {
+  max-width: 100%;
+  align-self: center;
+  width: 200px;
+  flex-shrink: 0;
+}
+.svg__swzPs {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__xyp3D {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.text__eoze8 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.ssn {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: #ffffff;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox__ry0Vr {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox__ge1Et {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.svg__ohhws {
+  object-fit: cover;
+  max-width: 100%;
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+}
+.text__ce6W {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.text__ngsFb {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__fUdO {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  z-index: 12;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.button__yYpeR:global(.__wab_instance) {
+  max-width: 100%;
+}
+.svg__bwlkU {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__nGzIe {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.textInput2:global(.__wab_instance) {
+  max-width: 100%;
+  align-self: center;
+  width: 200px;
+  flex-shrink: 0;
+}
+.svg__aoGvs {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__cXjSi {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.text___4IEWp {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.bday {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: #ffffff;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox__jgfHw {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox__cuUuk {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.svg__p3T3R {
+  object-fit: cover;
+  max-width: 100%;
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+}
+.text__thKdn {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.text__iobh9 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__dMxzZ {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  z-index: 12;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.button__bVMfk:global(.__wab_instance) {
+  max-width: 100%;
+}
+.svg__vgIn6 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__nxcfc {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.textInput3:global(.__wab_instance) {
+  max-width: 100%;
+  align-self: center;
+  width: 200px;
+  flex-shrink: 0;
+}
+.svg__iIAq9 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__rMic4 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.text__vf9OD {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+.freeBox__dalYj {
+  display: block;
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  filter: none;
+  backdrop-filter: blur(9px);
+  z-index: 10;
+  -webkit-backdrop-filter: blur(9px);
+  padding: 8px;
+}

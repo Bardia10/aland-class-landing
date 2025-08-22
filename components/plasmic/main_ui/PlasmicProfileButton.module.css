@@ -1,0 +1,15 @@
+.modal2:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.profileSetting2:global(.__wab_instance) {
+  position: relative;
+}
+.svg {
+  object-fit: cover;
+  max-width: 100%;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}

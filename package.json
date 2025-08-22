@@ -1,0 +1,41 @@
+{
+  "name": "tmp-cpa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@plasmicapp/cli": "^0.1.342",
+    "@plasmicapp/react-web": "^0.2.399",
+    "@plasmicpkgs/antd5": "^0.0.301",
+    "@plasmicpkgs/commerce": "^0.0.222",
+    "@plasmicpkgs/lottie-react": "^0.0.216",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.251",
+    "@plasmicpkgs/plasmic-nav": "^0.0.194",
+    "@plasmicpkgs/radix-ui": "^0.0.82",
+    "@plasmicpkgs/react-aria": "^0.0.150",
+    "@plasmicpkgs/react-awesome-reveal": "^3.8.226",
+    "@plasmicpkgs/react-parallax-tilt": "^0.0.224",
+    "@plasmicpkgs/react-quill": "^1.0.87",
+    "@plasmicpkgs/react-scroll-parallax": "^0.0.232",
+    "@plasmicpkgs/react-slick": "^0.0.245",
+    "@plasmicpkgs/react-youtube": "^7.13.228",
+    "next": "14.2.32",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-slick": "^0.31.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.32",
+    "typescript": "^5"
+  }
+}
