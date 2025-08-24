@@ -2179,6 +2179,45 @@
         }
       ],
       "codegenVersion": "0.0.2"
+    },
+    {
+      "projectId": "rNcaJv7JGEMA7ikVduUBRb",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "2TY6DtfjYJoy",
+          "checksum": "da93e202c14733afa557845f77a05f74"
+        },
+        {
+          "assetId": "rNcaJv7JGEMA7ikVduUBRb",
+          "type": "projectCss",
+          "checksum": "18767c689a09fee9d802371d5954fad1"
+        },
+        {
+          "assetId": "rNcaJv7JGEMA7ikVduUBRb",
+          "checksum": "744949ab20b4cc41fccbf600fffa1324",
+          "type": "projectModule"
+        },
+        {
+          "assetId": "rNcaJv7JGEMA7ikVduUBRb",
+          "checksum": "31ed6afcc92c92daa767e74e24cffd65",
+          "type": "styleTokensProvider"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Sy-pdEWbSXl4",
+          "checksum": "4d431abc54c41ef3e033bd06c2e7243c"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Sy-pdEWbSXl4",
+          "checksum": "4d431abc54c41ef3e033bd06c2e7243c"
+        }
+      ],
+      "codegenVersion": "0.0.2"
     }
   ],
   "cliVersion": "0.1.342"
